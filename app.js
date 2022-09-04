@@ -57,6 +57,6 @@ app.get('/sendMail', (req, res) => {
 const PORT = process.env.PORT || 3000;
  
 // Server Setup
-app.listen(3000, ()=>{
+app.listen(PORT, ()=>{
     console.log("server started and running on port " + 3000);
 });
