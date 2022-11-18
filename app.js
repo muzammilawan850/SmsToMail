@@ -31,7 +31,7 @@ app.get('/sendMail', (req, res) => {
   service: 'gmail',
   auth: {
     user: 'ciberteste50@gmail.com',
-    pass: 'sntgocevdgybirlb'
+    pass: 'ejmpaupjmjmsbrmn'
   }
 });
 
